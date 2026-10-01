@@ -1,8 +1,0 @@
-node_modules/
-auth_info_baileys/
-__pycache__/
-*.docx
-~$*.docx
-gen_kroki.py
-flowchart_text_to_sql.mmd
-~*.tmp
